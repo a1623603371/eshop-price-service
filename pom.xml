@@ -72,7 +72,11 @@
             <artifactId>jedis</artifactId>
         </dependency>
     </dependencies>
+<<<<<<< HEAD
     <build>
+=======
+          <build>
+>>>>>>> 8a910b1dc3be4ae6509cb4de30ce91236961353d
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -80,4 +84,8 @@
             </plugin>
         </plugins>
     </build>
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> 8a910b1dc3be4ae6509cb4de30ce91236961353d
